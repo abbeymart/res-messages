@@ -1,7 +1,7 @@
 /**
  * @Author: abbeymart | Abi Akindele | @Created: 2019-01-03 | @Updated: 2019-01-03
  * @Company: mConnect.biz | @License: MIT
- * @Description: mc-res-messages testing, success
+ * @Description: @abbeymart/res-messages testing, success
  */
 
 const suite             = require('mocha').suite;
