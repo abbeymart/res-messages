@@ -1,7 +1,7 @@
 /**
  * @Author: abbeymart | Abi Akindele | @Created: 2019-01-06 | @Updated: 2019-01-06
  * @Company: mConnect.biz | @License: MIT
- * @Description: @abbeymart/res-messages, response-messages | settings, default values
+ * @Description: @mconnect/res-messages, response-messages | settings, default values
  */
 
 const HTTPStatusCode = require('http-status-codes');

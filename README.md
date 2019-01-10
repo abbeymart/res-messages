@@ -1,11 +1,11 @@
-# @abbeymart/res-messages
+# @mconnect/res-messages
 
 res-message package includes the standard responses for various activities/operations
 
 ## Installation
 
 ```sh
-$ npm install @abbeymart/res-messages
+$ npm install @mconnect/res-messages
 ```
 
 ## API

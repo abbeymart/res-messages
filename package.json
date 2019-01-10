@@ -1,6 +1,6 @@
 {
-  "name": "@abbeymart/res-messages",
-  "version": "1.0.0",
+  "name": "@mconnect/res-messages",
+  "version": "0.1.0",
   "description": "response-messages | utility functions",
   "main": "index.js",
   "directories": {
