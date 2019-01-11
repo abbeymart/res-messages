@@ -4,6 +4,6 @@
  * @Description: @mconnect/res-messages, response messages
  */
 
-const resMessages = require('./resMessages');
+const resMessages = require('./src/resMessages');
 
 module.exports = resMessages;
