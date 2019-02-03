@@ -3,6 +3,7 @@
  * @Company: mConnect.biz | @License: MIT
  * @Description: @mconnect/res-messages, response-messages | utility functions
  */
+
 const resMsgParams = require('./resMsgParams');
 
 module.exports = {

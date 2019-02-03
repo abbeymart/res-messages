@@ -1,6 +1,6 @@
 {
   "name": "@mconnect/res-messages",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "response-messages | utility functions",
   "main": "index.js",
   "directories": {
