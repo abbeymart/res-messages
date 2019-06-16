@@ -1,5 +1,5 @@
 /**
- * @Author: abbeymart | Abi Akindele | @Created: 2019-01-06 | @Updated: 2019-01-06
+ * @Author: abbeymart | Abi Akindele | @Created: 2019-01-06 | @Updated: 2019-05-15
  * @Company: mConnect.biz | @License: MIT
  * @Description: @mconnect/res-messages, response-messages | settings, default values
  */
@@ -69,7 +69,7 @@ const resMsgParams = {
         value  : '',
     },
     subItems: {
-        code   : 'paramsError',
+        code   : 'subItems',
         resCode: HTTPStatusCode.NOT_MODIFIED,
         message: 'Record includes sub-items, which must be removed first',
         value  : '',

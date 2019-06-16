@@ -1,5 +1,9 @@
 # Historical logs
 
+## Version 0.2.0
+- Released June 15, 2019
+- re-factored res-msg function and restructure res-msg meta data
+
 ## Version 0.1.1
 - Released February 03, 2019
 - aligned with mconnect-library version
