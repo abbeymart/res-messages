@@ -1,6 +1,6 @@
 {
   "name": "@mconnect/res-messages",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "response-messages | utility functions",
   "main": "index.js",
   "directories": {
@@ -30,9 +30,10 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0",
-    "mochawesome": "^3.1.1"
+    "mochawesome": "^5.0.0"
   },
   "dependencies": {
-    "http-status-codes": "^1.3.0"
+    "http-status-codes": "^1.3.0",
+    "lodash": "^4.17.15"
   }
 }

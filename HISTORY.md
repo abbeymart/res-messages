@@ -1,5 +1,9 @@
 # Historical logs
 
+## Version 0.2.1
+- Released April 06, 2020
+- resolved npm security alert issues (minimist, lodash and mem)
+
 ## Version 0.2.0
 - Released June 15, 2019
 - re-factored res-msg function and restructure res-msg meta data
